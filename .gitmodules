@@ -1,0 +1,6 @@
+[submodule "Software/Smartwatch-Linux"]
+	path = Software/Smartwatch-Linux
+	url = git@github.com:JosefUtbult/Smartwatch-Linux.git
+[submodule "Software/Smartwatch-u-boot"]
+	path = Software/Smartwatch-u-boot
+	url = git@github.com:JosefUtbult/Smartwatch-u-boot.git

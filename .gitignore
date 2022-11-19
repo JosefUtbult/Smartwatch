@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Buildroot and tools
+Software/buildroot*/
+Software/tools
